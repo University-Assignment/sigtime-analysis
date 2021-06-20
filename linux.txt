@@ -1,0 +1,1 @@
+Most distros ship with pdftoppm and pdftocairo. If they are not installed, refer to your package manager to install poppler-utils
